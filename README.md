@@ -2,5 +2,5 @@
 
 ## 1. Data Generator for T-Test
 
-This code generates a dataset in the form of a dictonary with an experiment and control group given the mean, standard deviation and sample size. It then generates an experiment and control group which consists of participants that are one or two standard deviation away from each other.
+`t-test-data-generator` :  This code generates a dataset in the form of a dictonary with an experiment and control group given the mean, standard deviation and sample size. It then generates an experiment and control group which consists of participants that are one or two standard deviation away from each other.
 
